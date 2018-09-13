@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # navigate into our frontend directory
 cd frontend/
 
